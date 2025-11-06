@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @psukhumaran
 - 👀 I’m interested in learning DevOps
-- 🌱 I’m currently learning Maven and Travis CI
-- 💞️ I’m looking to collaborate on anything interesting
+- I am into Agentic AI planning and developing multi agent patterns
 
 
 <!---
